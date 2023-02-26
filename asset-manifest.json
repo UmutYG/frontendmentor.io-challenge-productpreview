@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontendmentor.io-challenge-productpreview/static/css/main.7fa083e0.css",
+    "main.js": "/frontendmentor.io-challenge-productpreview/static/js/main.c6e5fad1.js",
+    "static/media/image-product-desktop.jpg": "/frontendmentor.io-challenge-productpreview/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "index.html": "/frontendmentor.io-challenge-productpreview/index.html",
+    "static/media/icon-cart.svg": "/frontendmentor.io-challenge-productpreview/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.7fa083e0.css.map": "/frontendmentor.io-challenge-productpreview/static/css/main.7fa083e0.css.map",
+    "main.c6e5fad1.js.map": "/frontendmentor.io-challenge-productpreview/static/js/main.c6e5fad1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa083e0.css",
+    "static/js/main.c6e5fad1.js"
+  ]
+}
