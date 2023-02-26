@@ -1,0 +1,7 @@
+.cart {
+  display: flex;
+  width: 800px;
+  height: 525px;
+  border-radius: 16px;
+  overflow: hidden;
+}
